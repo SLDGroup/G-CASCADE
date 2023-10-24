@@ -5,7 +5,7 @@ This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional
 ## Architectures
 
 <p align="center">
-<img src="figures/architecture_gcascade.png" width=100% height=40% 
+<img src="architecture_gcascade.png" width=100% height=40% 
 class="center">
 </p>
 
