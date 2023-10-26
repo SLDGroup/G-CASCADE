@@ -1,6 +1,6 @@
 # G-CASCADE
 
-This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](https://arxiv.org/abs/2310.16175). 
+This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](https://arxiv.org/abs/2310.16175) WACV 2024 (Accepted). 
 
 ## Architectures
 
