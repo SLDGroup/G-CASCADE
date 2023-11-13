@@ -18,3 +18,4 @@ einops
 pthflops
 torchsummary
 thop
+segmentation-mask-overlay==0.3.4
