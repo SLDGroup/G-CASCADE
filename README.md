@@ -1,6 +1,6 @@
 # G-CASCADE
 
-This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](https://arxiv.org/abs/2310.16175) WACV 2024 (Accepted). 
+This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Rahman_G-CASCADE_Efficient_Cascaded_Graph_Convolutional_Decoding_for_2D_Medical_Image_WACV_2024_paper.html) WACV 2024 (Accepted). 
 
 ## Architectures
 
@@ -65,4 +65,13 @@ For ISIC2018 dataset testing, run ```CUDA_VISIBLE_DEVICES=0 python -W ignore tes
 ## Acknowledgement
 We are very grateful for these excellent works [timm](https://github.com/huggingface/pytorch-image-models), [MERIT](https://github.com/SLDGroup/MERIT), [CASCADE](https://github.com/SLDGroup/CASCADE), [PraNet](https://github.com/DengPingFan/PraNet), [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) and [TransUNet](https://github.com/Beckschen/TransUNet), which have provided the basis for our framework.
 
-
+## Citations
+```
+@inproceedings{rahman2024g,
+  title={G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation},
+  author={Rahman, Md Mostafijur and Marculescu, Radu},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={7728--7737},
+  year={2024}
+}
+```
