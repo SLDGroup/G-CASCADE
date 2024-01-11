@@ -9,6 +9,12 @@ This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional
 class="center">
 </p>
 
+## Qualitative Results
+
+<p align="center">
+<img src="qualitative_results_synapse.png" width=100% height=40% 
+class="center">
+</p>
 
 ## Usage:
 ### Recommended environment:
