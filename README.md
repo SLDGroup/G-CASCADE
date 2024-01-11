@@ -2,7 +2,7 @@
 
 This is the implementation of [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Rahman_G-CASCADE_Efficient_Cascaded_Graph_Convolutional_Decoding_for_2D_Medical_Image_WACV_2024_paper.html) WACV 2024. 
 
-## Architectures
+## Architecture
 
 <p align="center">
 <img src="architecture_gcascade.jpg" width=100% height=40% 
